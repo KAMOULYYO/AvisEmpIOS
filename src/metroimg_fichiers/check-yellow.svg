@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="icon-round-check" transform="translate(-395 -295)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="24" cy="24" r="24" transform="translate(395 295)" fill="#f39300"/>
+    <g id="icon-check" transform="translate(408.671 309)">
+      <rect id="BG" width="22" height="22" transform="translate(0.329)" fill="none"/>
+      <path id="icons_icon-checkbox" data-name="icons/ icon-checkbox" d="M5.461,13.437h0a.975.975,0,0,1-.719-.316L.313,8.42A1.207,1.207,0,0,1,.261,6.861.981.981,0,0,1,1.739,6.8L5.461,10.75,15.521.3a.969.969,0,0,1,1.427.015,1.21,1.21,0,0,1,.039,1.564L6.158,13.129a.978.978,0,0,1-.7.307M1.033,7.549h0" transform="translate(2.541 4.446)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

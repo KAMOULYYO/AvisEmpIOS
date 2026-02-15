@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="atoms_icons_confirm-icon" data-name="atoms/icons/confirm-icon" transform="translate(0.5 0.5)">
+    <path id="path" d="M5.6,10.9,8.7,14l7.2-7.1" transform="translate(-0.5 -0.5)" fill="none" stroke="#66b57c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="ellipse" cx="10" cy="10" r="10" fill="none" stroke="#66b57c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="49" viewBox="0 0 48 49">
+  <g id="icon-health-and-beauty" transform="translate(0 0.5)">
+    <rect id="bg" width="48" height="48" transform="translate(0 0)" fill="none" opacity="0.997"/>
+    <path id="icon" d="M3020.525-388.487v-9h14v9Zm6-5h2.02a.989.989,0,0,1,.98,1h2v-.007a3,3,0,0,0-3-2.994h-2a3,3,0,0,0-3,3h2v-.007a1,1,0,0,1,1-.992Zm-6.169-6-4.864-30h24.086l-4.873,30Zm-5.193-32.006-.808-4.995H3040.7l-.809,4.995Z" transform="translate(-3003.531 436.487)" fill="#77b800" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+  </g>
+</svg>

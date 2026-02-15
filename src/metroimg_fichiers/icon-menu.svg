@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.001" height="24" viewBox="0 0 25.001 24">
+  <g id="icon-menu" transform="translate(0.5)">
+    <rect id="BG" width="24" height="24" transform="translate(0.001)" fill="none"/>
+    <path id="icon" d="M8472.749,14931a.722.722,0,1,1,0-1.443h14.5a.722.722,0,1,1,0,1.443Zm0-5.284a.72.72,0,1,1,0-1.438h22.5a.72.72,0,1,1,0,1.438Zm0-5.275a.722.722,0,1,1,0-1.443h22.5a.722.722,0,1,1,0,1.443Z" transform="translate(-8471.999 -14913.002)" fill="#333" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+  </g>
+</svg>
