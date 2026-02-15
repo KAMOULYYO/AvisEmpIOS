@@ -1,0 +1,21 @@
+﻿{
+  "name": "Avis Employes",
+  "short_name": "Avis",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#b91c1c",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
